@@ -1,4 +1,4 @@
-# Exctration-loop-Lumicycle-Gentaur-period-analysis-and-graphing
+# R - Extraction-loop-Lumicycle-Gentaur-period-analysis-and-graphing
 
 
 ###Loads Library
